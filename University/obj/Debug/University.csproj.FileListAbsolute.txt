@@ -1,0 +1,14 @@
+c:\users\садыковаа\source\repos\University\University\bin\Debug\University.exe.config
+c:\users\садыковаа\source\repos\University\University\bin\Debug\University.exe
+c:\users\садыковаа\source\repos\University\University\bin\Debug\University.pdb
+c:\users\садыковаа\source\repos\University\University\bin\Debug\EntityFramework.dll
+c:\users\садыковаа\source\repos\University\University\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\садыковаа\source\repos\University\University\bin\Debug\EntityFramework.xml
+c:\users\садыковаа\source\repos\University\University\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\садыковаа\source\repos\University\University\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\садыковаа\source\repos\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\University\University\obj\Debug\University.csproj.CopyComplete
+c:\users\садыковаа\source\repos\University\University\obj\Debug\University.exe
+c:\users\садыковаа\source\repos\University\University\obj\Debug\University.pdb
+c:\users\садыковаа\source\repos\University\University\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
